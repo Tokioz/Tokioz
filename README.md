@@ -6,7 +6,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=pink)](https://twitter.com/Tokiorik)
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=pink)](https://www.reddit.com/settings/profile)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=pink)](https://www.reddit.com/user/Tokioz)
 
 
 
