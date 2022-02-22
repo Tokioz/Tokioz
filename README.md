@@ -1,4 +1,4 @@
- Hey my name is Tokyo and I'm entering the world of programming 
+ Hey my name is Tokio and I'm entering the world of programming 
 
 ![Tokioz GitHub stats](https://github-readme-stats.vercel.app/api?username=Tokioz&show_icons=true&theme=radical)
 
